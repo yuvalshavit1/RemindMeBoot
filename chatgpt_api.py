@@ -1,8 +1,13 @@
 from datetime import datetime
 import openai
 import telebot
+from dotenv import load_dotenv
+import os
 
-openai.api_key = "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"
+
+load_dotenv()
+API_CHAT_KEY = os.getenv('API_CHAT_KEY')
+openai.api_key = API_CHAT_KEY
 
 current_datetime = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
