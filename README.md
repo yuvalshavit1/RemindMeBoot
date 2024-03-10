@@ -16,4 +16,5 @@ The user will enter request in Hebrew language and the chat will extract the rel
 6. Ask the user automatic question
 
 **System design:**
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3a8b589c-58be-44f9-8034-05bda1e6b0ec/17db3cad-fa88-431d-b0e8-d89bae62c251/Untitled.png)
+<img width="736" alt="SystemDesign" src="https://github.com/yuvalshavit1/RemindMeBot/assets/76702954/2cd7f52a-37ae-4636-a187-1090273f59c2">
+
